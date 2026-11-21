@@ -1,6 +1,7 @@
 // NAME=NANYA MISHRA
 // BATCH 20
 // SAP ID=590033891
+//Course= B.tech CSE
 
 
 #include <stdio.h>
